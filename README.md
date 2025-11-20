@@ -50,7 +50,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
+  
 </p>
 
 ---
@@ -66,35 +66,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeocean5214&layout=compact&theme=merko&hide_border=true" height="180"/>
 </div>
 
----
+
 
 <!-- ===================== TROPHY ===================== -->
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeocean5214&theme=darkhub&margin-w=10"/>
-</p>
 
----
 
 <!-- ===================== PACMAN CONTRIBUTION ===================== -->
 
-## 🍀 Contribution Graph  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeocean5214/codeocean5214/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeocean5214/codeocean5214/output/pacman-contribution-graph.svg">
-  <img alt="pacman graph" src="https://raw.githubusercontent.com/codeocean5214/codeocean5214/output/pacman-contribution-graph.svg">
-</picture>
 
----
+
+
 
 <!-- ===================== PROFILE COUNTER ===================== -->
 
-## 👁️ Profile Views  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codeocean5214/count.svg" />
-</div>
 
----
+
+
+
 
 <p align="center">🔥 Built by Aditya with passion for AI & development ❤️</p>
